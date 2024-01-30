@@ -31,7 +31,7 @@
 
       <!-- Main Content -->
       <main class="flex-1 p-4">
-        <!-- Your main content goes here -->
+        <slot />
       </main>
     </div>
   </div>
